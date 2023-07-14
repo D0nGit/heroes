@@ -6,3 +6,4 @@
 4. Doomsday
 5. Deadshot
 6. Thanos
+7. Venom
